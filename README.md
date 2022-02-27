@@ -1,2 +1,3 @@
-# fisic-exercise-data
-Dados de exercícios físicos
+# Fisic Exercise Data API
+
+API de dados de exercícios físicos.
